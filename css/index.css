@@ -6,7 +6,7 @@ html, body {
     font-family: cwTeXHei, 微軟正黑體;
 }
 
-body, div, button, input, ul, li, p {
+body, div, button, input, ul, li, p, span, label {
     outline: none;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
