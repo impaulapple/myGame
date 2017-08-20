@@ -182,7 +182,7 @@ function setSlot(eleClassName, btnId) {
         number: 1, //要幾格
         spinner: btnId, //轉盤ID '#playFancy'
         easing: 'easeOutSine', //轉盤風格
-        time: 5000, //時間
+        time: 7000, //時間
         loops: 2, //模擬跑幾圈
         onStart: function (spinner) {
             $('.slot').removeClass('winner');
