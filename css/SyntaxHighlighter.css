@@ -48,13 +48,13 @@ input[type="button"] {
 }
 
 .mission .jSlots-wrapper {
-	height: 300px;
+	height: 250px;
 }
 
 .fancy .missionSlot li {
 	width: 300px;
 	/* line-height: 300px; */
-	height: 300px;
+	height: 250px;
 }
 
 .fancy .slot:first-child li {
